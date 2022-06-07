@@ -1,0 +1,11 @@
+[Unit]
+Description=Users manager for OS2 TP #6
+After=network.target
+
+[Service]
+ExecStart=/home/akmsw/Documents/VSCodeRelated/soii---2022---laboratorio-vi-akmsw/users_manager
+Restart=always
+WorkingDirectory=/home/akmsw/Documents/VSCodeRelated/soii---2022---laboratorio-vi-akmsw
+
+[Install]
+WantedBy=multi-user.target

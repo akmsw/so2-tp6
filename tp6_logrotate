@@ -1,0 +1,15 @@
+/home/akmsw/Documents/VSCodeRelated/soii---2022---laboratorio-vi-akmsw/log_counter_manager.log {
+	hourly
+	rotate 1
+	size 10M
+	compress
+	delaycompress
+}
+
+/home/akmsw/Documents/VSCodeRelated/soii---2022---laboratorio-vi-akmsw/log_users_manager.log {
+	hourly
+	rotate 1
+	size 10M
+	compress
+	delaycompress
+}
