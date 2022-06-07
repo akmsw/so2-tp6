@@ -1,5 +1,4 @@
 # Laboratorio Nº6 - Embedded systems (2)
-### Sistemas Operativos II - FCEFyN - UNC
 ## Introduction
 El presente es un trabajo práctico de laboratorio cuyo objetivo es el de desarrollar una implementación básica de una RESTful API para lograr una visión *end-to-end* de las mismas sobre un sistema embebido.
 ## Startup
